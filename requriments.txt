@@ -1,0 +1,10 @@
+youtube-transcript-api
+yt-dlp
+transformers
+torch
+librosa
+sentence-transformers
+faiss-cpu
+numpy
+ollama
+streamlit
